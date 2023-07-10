@@ -1,4 +1,4 @@
-package com.example.testproject3;
+package com.example.testproject3.coding;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
